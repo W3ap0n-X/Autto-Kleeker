@@ -13,7 +13,7 @@ A basic Autoclicker I built for a friend with an over-complicated backend.
   - Future versions would allow users to customize the hotkeys
 - No type safety or validation for updated settings. Shouldn't be a major issue but it's probably best to keep numbers positive and avoiding other characters where there should be numbers
   - This could be done but it would take a minute, this may be in future updates.
-- GUI is a bit ugly, since it was cobbled togetehr so quickly it could probably use some polish. 
+- GUI is a bit ugly, since it was cobbled together so quickly it could probably use some polish. 
 
 ## About
 A friend asked if I knew of a good auto clicker. I asked them what they needed and whipped this up in an hour as a demonstration of AHK and to see if I could interest them in learning to write scripts. 
